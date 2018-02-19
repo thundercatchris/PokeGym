@@ -1,0 +1,6 @@
+framework module Pods_PokeGym {
+  umbrella header "Pods-PokeGym-umbrella.h"
+
+  export *
+  module * { export * }
+}
